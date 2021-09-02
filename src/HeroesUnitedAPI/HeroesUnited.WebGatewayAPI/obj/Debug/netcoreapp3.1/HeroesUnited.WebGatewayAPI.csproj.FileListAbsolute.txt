@@ -1,0 +1,9 @@
+C:\Users\Vivek Bure\source\repos\heroes-united\src\HeroesUnitedAPI\HeroesUnited.WebGatewayAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vivek Bure\source\repos\heroes-united\src\HeroesUnitedAPI\HeroesUnited.WebGatewayAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vivek Bure\source\repos\heroes-united\src\HeroesUnitedAPI\HeroesUnited.WebGatewayAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Vivek Bure\source\repos\heroes-united\src\HeroesUnitedAPI\HeroesUnited.WebGatewayAPI\obj\Debug\netcoreapp3.1\HeroesUnited.WebGatewayAPI.csprojAssemblyReference.cache
+C:\Users\Vivek Bure\source\repos\heroes-united\src\HeroesUnitedAPI\HeroesUnited.WebGatewayAPI\obj\Debug\netcoreapp3.1\HeroesUnited.WebGatewayAPI.AssemblyInfoInputs.cache
+C:\Users\Vivek Bure\source\repos\heroes-united\src\HeroesUnitedAPI\HeroesUnited.WebGatewayAPI\obj\Debug\netcoreapp3.1\HeroesUnited.WebGatewayAPI.AssemblyInfo.cs
+C:\Users\Vivek Bure\source\repos\heroes-united\src\HeroesUnitedAPI\HeroesUnited.WebGatewayAPI\obj\Debug\netcoreapp3.1\HeroesUnited.WebGatewayAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Vivek Bure\source\repos\heroes-united\src\HeroesUnitedAPI\HeroesUnited.WebGatewayAPI\obj\Debug\netcoreapp3.1\staticwebassets\HeroesUnited.WebGatewayAPI.StaticWebAssets.Manifest.cache
+C:\Users\Vivek Bure\source\repos\heroes-united\src\HeroesUnitedAPI\HeroesUnited.WebGatewayAPI\obj\Debug\netcoreapp3.1\staticwebassets\HeroesUnited.WebGatewayAPI.StaticWebAssets.xml
