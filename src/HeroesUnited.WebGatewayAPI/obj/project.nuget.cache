@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C5ZNQt9rEknyhf6siD5gPAzpkvOyqqLqaSovyIEE++pZB0wcBbt+0PHlTLvp5B0HxzFeuFeJ2OyoMEMSLx6cnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vivek Bure\\source\\repos\\heroes-united\\src\\HeroesUnited.WebGatewayAPI\\HeroesUnited.WebGatewayAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vivek Bure\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
